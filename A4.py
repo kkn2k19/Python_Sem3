@@ -1,4 +1,5 @@
-#A company wants to set target for each of the four regions (EAST, WEST, NORTH and SOUTH). The company allots the following percentage target for each region.
+# A company wants to set target for each of the four regions (EAST, WEST, NORTH and SOUTH). 
+# The company allots the following percentage target for each region.
 # East   15%
 # West   25%
 # North  30%
