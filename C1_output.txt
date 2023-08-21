@@ -1,0 +1,6 @@
+Lower Limit : 5
+Upper Limit : 37
+Prime Numbers in range  5  to  37  are --- 
+5 7 11 13 17 19 23 29 31 37 
+Number of primes :  10
+Two Digit Primes :  8
