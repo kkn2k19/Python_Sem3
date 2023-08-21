@@ -1,0 +1,19 @@
+Enter 'a' for Factorial of each digit.
+'b' for Reverse of Number.
+'c' for Displaying Factors of a Number. : a
+Enter n : 123
+Factorial of ' 3 ' :  6
+Factorial of ' 2 ' :  2
+Factorial of ' 1 ' :  1
+
+Enter 'a' for Factorial of each digit.
+'b' for Reverse of Number.
+'c' for Displaying Factors of a Number. : b
+Enter n : 123
+Reverse of  123  :  321
+
+Enter 'a' for Factorial of each digit.
+'b' for Reverse of Number.
+'c' for Displaying Factors of a Number. : c
+Enter n : 123
+Factors of  123  : 1 3 41 123 
