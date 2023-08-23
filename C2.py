@@ -6,35 +6,26 @@
 
 choice = input("Enter 'a' for Factorial of each digit.\n'b' for Reverse of Number.\n'c' for Displaying Factors of a Number. : ")
 n=int(input("Enter n : "))
-    
-def fact(d):
-    f = 1
-    for i in range (1, d+1):
-        f = f*i
-    print("Factorial of '",d,"' : ", f)
-
-def rev(n):
-    r = 0
-    i = n
-    while i>0:
-        d=i%10
-        r=r*10+d
-        i=i//10
-    print("Reverse of ",n," : ", r)
-
-def factors(n):
-    print("Factors of ", n, " : ", end ="")
-    for i in range(1, n+1):
-        if n%i==0:
-            print(i, end=" ")
 
 if choice == 'a':
     i=n
     while i>0:
         d=i%10
-        fact(d)
+        f=1
+        for k in range(1, d+1):
+            f=f*k
+        print("Factorial of ", d, " : ", f)
         i=i//10
 elif choice=='b':
-    rev(n)
+    r=0
+    i=n
+    while i>0:
+        d=i%10
+        r=r*10+d
+        i=i//10
+    print("Reverse of ", n, " : ", r)
 elif choice=='c':
-    factors(n)
+    print("Factors of ", n, " : ")
+    for i in range(1, n+1):
+        if n%i==0:
+            print(i, end=" ")
