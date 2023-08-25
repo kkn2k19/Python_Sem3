@@ -1,0 +1,2 @@
+Enter n : 5
+Factorial :  120
