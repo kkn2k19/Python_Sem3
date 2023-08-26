@@ -1,0 +1,8 @@
+Enter employee name : KKN
+Enter basic salary : 100000
+Name :  KKN
+Basic Pay :  100000.0
+DA :  40000.0
+HRA :  30000.0
+Income Tax monthly :  36000.0
+Net Monthly Salary :  134000.0
