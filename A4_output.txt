@@ -1,0 +1,5 @@
+Enter total target : 10000
+East :  1500.0
+West :  2500.0
+North :  3000.0
+South :  3000.0
