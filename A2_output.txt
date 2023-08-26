@@ -1,0 +1,7 @@
+Numbers before Swapping : 
+a =  10
+b =  20
+
+Numbers after Swapping : 
+a =  20
+b =  10
