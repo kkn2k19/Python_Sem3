@@ -1,0 +1,2 @@
+Enter Marks : 75
+Grade : B
