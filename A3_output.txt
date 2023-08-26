@@ -1,0 +1,4 @@
+Enter time in seconds : 3661
+Hours =  1
+Minutes =  1
+Seconds =  1
