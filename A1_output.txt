@@ -1,0 +1,6 @@
+Arithmetic Operations --- 
+Sum :  70
+Difference :  10
+Product :  1200
+Division of 1st by 2nd :  1.3333333333333333
+Remainder when 1st divided by 2nd :  10
