@@ -1,0 +1,4 @@
+Enter the 1st angle : 60
+Enter the 2nd angle : 60
+Enter the 3rd angle : 60
+Acute angled triangle.
