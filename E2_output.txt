@@ -1,0 +1,9 @@
+Enter some words separated by commas :
+apple,ball,cat,dog,elephant,goat,hen
+Enter a number to find words longer than that length:
+3
+Words longer than 3 are:
+apple
+ball
+elephant
+goat
