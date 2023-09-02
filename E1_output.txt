@@ -1,0 +1,9 @@
+Enter no. of elements : 5
+Enter value : 1
+Enter value : 2
+Enter value : 2
+Enter value : 3
+Enter value : 4
+original List :  [1, 2, 2, 3, 4]
+List after Removing Duplicates :  [1, 2, 3, 4]
+Second Largest Number from List :  3
