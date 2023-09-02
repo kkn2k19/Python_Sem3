@@ -1,0 +1,21 @@
+Enter size of List : 5
+Enter value : 1
+Enter value : 2
+Enter value : 3
+Enter value : 5
+Enter value : 4
+Original List :  [1, 2, 3, 5, 4]
+Enter L for Linear Search or B for Binary Search : B
+Enter Search Element : 5
+Found at index :  4
+
+Enter size of List : 5
+Enter value : 1
+Enter value : 2
+Enter value : 3
+Enter value : 5
+Enter value : 4
+Original List :  [1, 2, 3, 5, 4]
+Enter L for Linear Search or B for Binary Search : L
+Enter Search Element : 2
+Found at index :  1
